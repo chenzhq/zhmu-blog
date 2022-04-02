@@ -980,7 +980,7 @@ data = [
 
 呈现的输出效果如下:
 
-{{< mapbox 121.485 31.233 12 >}}
+<!-- {{< mapbox 121.485 31.233 12 >}} -->
 
 一个带有自定义样式的 `mapbox` 示例:
 
@@ -992,7 +992,7 @@ data = [
 
 呈现的输出效果如下:
 
-{{< mapbox -122.252 37.453 10 false "mapbox://styles/mapbox/streets-zh-v1?optimize=true" >}}
+<!-- {{< mapbox -122.252 37.453 10 false "mapbox://styles/mapbox/streets-zh-v1?optimize=true" >}} -->
 
 ## 8 music
 
@@ -1156,7 +1156,6 @@ https://www.bilibili.com/video/BV1Sx411T7QQ
 
 呈现的输出效果如下:
 
-{{< bilibili id=BV1Sx411T7QQ >}}
 
 如果视频包含多个部分, 则除了视频的 BV `id` 之外, 还需要 `p`, 默认值为 `1`, 例如:
 
@@ -1174,7 +1173,6 @@ https://www.bilibili.com/video/BV1TJ411C7An?p=3
 
 呈现的输出效果如下:
 
-{{< bilibili id=BV1TJ411C7An p=3 >}}
 
 ## 10 typeit
 

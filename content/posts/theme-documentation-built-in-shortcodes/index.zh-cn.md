@@ -162,7 +162,6 @@ For more information please have a look at GitHub issue [#7879](https://github.c
 
 呈现的输出效果如下:
 
-{{< vimeo 146022717 >}}
 
 ## 9 youtube
 
@@ -176,4 +175,3 @@ For more information please have a look at GitHub issue [#7879](https://github.c
 
 呈现的输出效果如下:
 
-{{< youtube w7Ft2ymGmfc >}}
