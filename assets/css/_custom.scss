@@ -2,3 +2,22 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+ol {
+    list-style: auto;
+    ol {
+        list-style: lower-alpha;
+        ol {
+            list-style: lower-roman;
+        }
+    }
+}
+
+li {
+    line-height: 1.8;
+}
+
+.single .content p {
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
